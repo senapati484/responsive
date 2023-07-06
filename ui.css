@@ -110,13 +110,13 @@ body{
 .card .imgBX img
 {
     position: absolute;
-    top: 10px;
-    left: 10px;
-    right: 10px;
-    bottom: 10px;
+    top: 2.5%;
+    left: 2.5%;
+    right: 2.5%;
+    bottom: 2.5%;
     z-index: 1;
-    width: calc(100% - 20%);
-    height: calc(100% - 20%);
+    width: calc(100% - 5%);
+    height: calc(100% - 5%);
     filter: grayscale(1);
 }
 .card .content
